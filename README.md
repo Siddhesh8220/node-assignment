@@ -12,7 +12,6 @@ $ cd node-assignment
 ### 2. Then install the dependencies:
 
 ```
-$ cd CRUD_API_Node_js
 $ npm install
 ```
 
