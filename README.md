@@ -24,35 +24,36 @@ $ npm start
 
 And navigate to `http://127.0.0.1:5000`.
 
-### 1. Register User
+
+#### 1. Register User
 
 ![](screenshots/register.png)
 
-### 2. Login User
+#### 2. Login User
 
 ![](screenshots/login.png)
 
-### 3. Failed Authorization
+#### 3. Failed Authorization
 
 ![](screenshots/middleware-failed-msg.png)
 
-### 4. Get specific user
+#### 4. Get specific user
 
 ![](screenshots/get.png)
 
-### 5. Get all users
+#### 5. Get all users
 
 ![](screenshots/getall.png)
 
-### 6. Update user data
+#### 6. Update user data
 
 ![](screenshots/updateUser.png)
 
-### 7. Change Password
+#### 7. Change Password
 
 ![](screenshots/updatePass.png)
 
-### 8. Delete User
+#### 8. Delete User
 
 ![](screenshots/deleteUser.png)
 
